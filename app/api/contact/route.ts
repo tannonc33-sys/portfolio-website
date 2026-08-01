@@ -60,7 +60,6 @@ export async function POST(req: Request) {
       from: "Chufo's Painting <quotes@chufos-painting.com>",
       to: [
         "tannon.c.33@gmail.com",
-        "bear.martinez@chufospainting.com",
       ],
       subject: "New Quote Request - Chufo's Painting",
       html: adminEmailHtml,
