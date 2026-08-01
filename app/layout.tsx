@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Chufo's Painting | Residential & Commercial Painting in Lubbock, TX",
+  title: "Tannon Cearley | Graphic Designer",
   description:
-    "Chufo's Painting provides residential and commercial painting services in Lubbock, Slaton, and surrounding Texas areas. Request a free quote today.",
+    "Portfolio of Tannon Cearley featuring graphic design, web design, branding, and print design.",
 };
 
 export default function RootLayout({
