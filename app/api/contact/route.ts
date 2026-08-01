@@ -35,7 +35,7 @@ export async function POST(req: Request) {
     `;
 
     await resend.emails.send({
-      from: "Tannon Cearley <hello@tannoncearleydesign.com>",
+      from: "Chufo's Painting <quotes@chufos-painting.com>",
       to: [
         "tannon.c.33@gmail.com",
       ],
@@ -44,7 +44,7 @@ export async function POST(req: Request) {
     });
 
     await resend.emails.send({
-      from: "Tannon Cearley <hello@tannoncearleydesign.com>",
+      from: "Chufo's Painting <quotes@chufos-painting.com>",
       to: email,
       subject: "Thanks for reaching out!",
       html: customerEmailHtml,
