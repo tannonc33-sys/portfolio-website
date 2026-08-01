@@ -18,7 +18,7 @@ const projects = [
     title: "Logo Recreation & Vectorization",
     category: "Logo Design • Branding",
     href: "/portfolio/logo-recreation-and-vectorization",
-    image: "/Side_Boat.jpg"
+    image: "/Side_boat.jpg"
   },
   {
     title: "Large Format Project",
