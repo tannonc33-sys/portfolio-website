@@ -13,7 +13,7 @@ export default function Hero() {
 
                     <p className="max-w-xl text-base leading-7 text-zinc-600 sm:text-lg">
                         I create clean, modern branding, websites, and print designs that
-                        help businesses stand out. From logos and signage to repsonsive websites,
+                        help businesses stand out. From logos and signage to responsive websites,
                         I focus on thoughtful design that is both functional and memorable.
                     </p>
 
