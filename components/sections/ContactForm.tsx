@@ -52,7 +52,7 @@ export default function ContactForm() {
                     </p>
                     <h2 className="text-3xl font-bold sm:text-4xl">Let's Work Together</h2>
                     <p className="max-w-xl text-base leading-7 text-zinc-600">
-                        Have a project in mind, a job oppurtunity, or a question about my work? Send me a
+                        Have a project in mind, a job opportunity, or a question about my work? Send me a
                         message and I'll get back to you as soon as I can.
                     </p>
 
